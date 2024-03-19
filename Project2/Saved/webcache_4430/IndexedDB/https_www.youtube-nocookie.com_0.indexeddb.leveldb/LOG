@@ -1,2 +1,7 @@
-2024/03/07-12:43:20.657 4138 Creating DB C:/Users/vr_student/Documents/Unreal Projects/IndoorProj/Indoor-Project/Project2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/03/07-12:43:20.666 4138 Reusing MANIFEST C:/Users/vr_student/Documents/Unreal Projects/IndoorProj/Indoor-Project/Project2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/19-15:23:42.402 2970 Reusing MANIFEST C:/Users/vr_student/Documents/Unreal Projects/IndoorProj/Indoor-Project/Project2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/19-15:23:42.406 2970 Recovering log #3
+2024/03/19-15:23:42.407 2970 Reusing old log C:/Users/vr_student/Documents/Unreal Projects/IndoorProj/Indoor-Project/Project2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2024/03/19-15:23:49.634 2970 Level-0 table #5: started
+2024/03/19-15:23:49.641 2970 Level-0 table #5: 1167 bytes OK
+2024/03/19-15:23:49.644 2970 Delete type=0 #3
+2024/03/19-15:23:49.645 2970 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
